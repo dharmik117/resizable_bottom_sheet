@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:resizeable_bottom_sheet/resizeable_bottom_sheet.dart';
+import 'package:resizable_bottom_sheet/resizable_bottom_sheet.dart';
 
 void main() {
   runApp(const MyApp());

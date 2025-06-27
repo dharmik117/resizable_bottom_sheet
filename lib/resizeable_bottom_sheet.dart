@@ -38,7 +38,7 @@ Future<T?> showResizableBottomSheet<T>({
     elevation: elevation,
 
     anchorPoint: anchorPoint,
-    scrollControlDisabledMaxHeightRatio: scrollControlDisabledMaxHeightRatio!,
+    scrollControlDisabledMaxHeightRatio: scrollControlDisabledMaxHeightRatio,
     sheetAnimationStyle: sheetAnimationStyle,
     showDragHandle: showDragHandle,
     transitionAnimationController: transitionAnimationController,

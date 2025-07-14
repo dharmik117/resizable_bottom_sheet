@@ -33,7 +33,6 @@ Future<T?> showResizableBottomSheet<T>({
     barrierColor: barrierColor,
     barrierLabel: barrierLabel,
     constraints: constraints,
-    requestFocus: requestFocus,
     routeSettings: routeSettings,
     elevation: elevation,
 

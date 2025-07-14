@@ -38,4 +38,4 @@ Add to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  resizable_bottom_sheet: ^0.0.2
+  resizable_bottom_sheet: ^0.0.3

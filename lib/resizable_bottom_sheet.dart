@@ -11,7 +11,6 @@ Future<T?> showResizableBottomSheet<T>({
   Color? barrierColor,
   String? barrierLabel,
   BoxConstraints? constraints,
-  bool? requestFocus,
   RouteSettings? routeSettings,
   double? elevation,
   Offset? anchorPoint,
@@ -35,7 +34,6 @@ Future<T?> showResizableBottomSheet<T>({
     constraints: constraints,
     routeSettings: routeSettings,
     elevation: elevation,
-
     anchorPoint: anchorPoint,
     scrollControlDisabledMaxHeightRatio: scrollControlDisabledMaxHeightRatio,
     sheetAnimationStyle: sheetAnimationStyle,

@@ -9,6 +9,11 @@ over appearance and behavior.
 
 Same features available in flutter`s modal bottom sheet
 
+## Demo
+
+Here’s how its look
+<img src="https://raw.githubusercontent.com/dharmik117/resizable_bottom_sheet/master/assets/example.gif"/>
+
 ## Usage
 
 ```
@@ -33,4 +38,4 @@ Add to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  resizable_bottom_sheet: ^0.0.1
+  resizable_bottom_sheet: ^0.0.2
